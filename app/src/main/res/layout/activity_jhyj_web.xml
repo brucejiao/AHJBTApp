@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <include
+        android:id="@+id/layout_main_header"
+        layout="@layout/layout_main_header"/>
+    <WebView
+        android:id="@+id/jhyj_page_wv"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+    </WebView>
+    <include
+        android:id="@+id/layout_load_error"
+        android:visibility="invisible"
+        layout="@layout/layout_load_error"/>
+</LinearLayout>

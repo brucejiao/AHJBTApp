@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="loaddatalayout-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/92ad42e667d9461dad452b3e31d6896e4f58b3c0/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/92ad42e667d9461dad452b3e31d6896e4f58b3c0/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.ganxin.library/loaddatalayout/1.0.1/93f91439d4003280f04379612c783b8a198274c1/loaddatalayout-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
